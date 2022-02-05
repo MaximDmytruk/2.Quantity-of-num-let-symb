@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.Визначити кількість літеp у рядку", "..\2.Визначити кількість літеp у рядку\2.Визначити кількість літеp у рядку\2.Визначити кількість літеp у рядку.vcxproj", "{2DB601A0-551B-48E7-B9CB-9D88C31917AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DB601A0-551B-48E7-B9CB-9D88C31917AF}.Debug|x64.ActiveCfg = Debug|x64
+		{2DB601A0-551B-48E7-B9CB-9D88C31917AF}.Debug|x64.Build.0 = Debug|x64
+		{2DB601A0-551B-48E7-B9CB-9D88C31917AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{2DB601A0-551B-48E7-B9CB-9D88C31917AF}.Debug|x86.Build.0 = Debug|Win32
+		{2DB601A0-551B-48E7-B9CB-9D88C31917AF}.Release|x64.ActiveCfg = Release|x64
+		{2DB601A0-551B-48E7-B9CB-9D88C31917AF}.Release|x64.Build.0 = Release|x64
+		{2DB601A0-551B-48E7-B9CB-9D88C31917AF}.Release|x86.ActiveCfg = Release|Win32
+		{2DB601A0-551B-48E7-B9CB-9D88C31917AF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA0B3EDF-1943-42F2-92F1-97EAE02B5324}
+	EndGlobalSection
+EndGlobal
